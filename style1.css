@@ -6,14 +6,17 @@ html {
 
 
 p {
-	background-color: #ffffff;
+	background-color: #e4edc0;
 }
 
 h1 {
-	background-color: #55aaff;
+	background-color: #35617b;
 	color: #eef5ff;
+	border-left: 60px solid #3d1045;
 }
 
 h2 {
-	background-color: #ddeeff;
+	background-color: #c6dbf0;
+	border-left: 30px solid #4444aa;
+	border-right: 30px solid #3a9495;
 }
